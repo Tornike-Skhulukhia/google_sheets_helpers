@@ -1,5 +1,6 @@
 '''
     functions to work with google sheets using gspread library
+    ( https://gspread.readthedocs.io/en/latest/ )
 '''
 
 def login_to_google_sheets(credentials_file):
